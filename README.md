@@ -3,7 +3,7 @@
 Simple app template registry.
 
 Records are in the form (tentative schema):
-```json
+```jsonc
 {
   "name" // String
   "scope" // String

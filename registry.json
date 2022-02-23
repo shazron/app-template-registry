@@ -1,10 +1,10 @@
 {
   "data": [
       {
-        "name": "My Awesome Template"
-        "scope": "shazron"
+        "name": "My Awesome Template",
+        "scope": "shazron",
         "url": "https://github.com/shazron/my-awesome-template",
-        "version": "0.1.1"
+        "version": "0.1.1",
         "description": "a template that does nothing currently",
         "keywords": [
           "template",
